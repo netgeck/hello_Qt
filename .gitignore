@@ -1,2 +1,4 @@
 build/
 nbproject/
+*.pro
+*.pro.user
